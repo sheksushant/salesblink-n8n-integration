@@ -1,0 +1,11 @@
+.DS_Store
+*.tsbuildinfo
+.env
+node_modules/
+.vscode/
+.gitignore
+.eslintrc.js
+.eslintrc.prepublish.js
+.prettierignore
+.prettierrc.json
+.prettierignore
