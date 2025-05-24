@@ -1,16 +1,21 @@
 {
-	"name": "n8n-nodes-salesblink",
-	"version": "0.1.1",
-	"description": "SalesBlink n8n automation",
+	"name": "n8n-nodes-salesblink-io",
+	"version": "0.1.2",
+	"description": "SalesBlink n8n automation integration package.",
 	"keywords": [
-		"n8n-community-node-package"
+		"n8n-community-node-package",
+		"salesblink"
 	],
 	"license": "MIT",
 	"homepage": "",
 	"author": {
-		"name": "Faizan Shaikh",
-		"email": "faizan.shaikh@futureblinkmail.xyz"
+		"name": "Team SalesBlink",
+		"email": "chat@salesblink.io"
 	},
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/sheksushant/salesblink-n8n-integration"
+  },
 	"engines": {
 		"node": ">=20.15"
 	},
