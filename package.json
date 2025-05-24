@@ -1,20 +1,20 @@
 {
 	"name": "n8n-nodes-salesblink-io",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "SalesBlink n8n automation integration package.",
 	"keywords": [
 		"n8n-community-node-package",
 		"salesblink"
 	],
 	"license": "MIT",
-	"homepage": "",
+	"homepage": "https://github.com/sheksushant/n8n-nodes-salesblink-io",
 	"author": {
 		"name": "Team SalesBlink",
 		"email": "chat@salesblink.io"
 	},
 	"repository": {
     "type": "git",
-    "url": "https://github.com/sheksushant/salesblink-n8n-integration"
+    "url": "https://github.com/sheksushant/n8n-nodes-salesblink-io"
   },
 	"engines": {
 		"node": ">=20.15"
